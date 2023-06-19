@@ -5,9 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+       <center> <a link href="https://tejasmore.netlify.app/">GO TO WEBSITE</a></center>
 <center><a href="https://ibb.co/YpB3pWJ"><img src="https://i.ibb.co/bz5Pz3Y/int.png" alt="int" border="0"></a><br /><a target='_blank' href='https://nonprofitlight.com/md/calverton/adoptions-together-inc'></a><br /></center>
-
-  <a link href="https://tejasmore.netlify.app/">GO TO WEBSITE</a>
 
 - 🔭 I’m currently working on [fullstack devloper](https://tejasmore.netlify.app)
 
