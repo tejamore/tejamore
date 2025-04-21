@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm tejas more</h1>
-<h3 align="center">Hello, My Name Is Tejas More, and i am BCA graduate i like to learn new things as well as new technologies Till date I have worked on Python, JAVA, PHP and SQL. And I would further like to work in technology organizations also want to contribute to their great future.</h3>
+<h3 align="center">Hello, My Name Is Tejas More, Machine Learning professional with an MCA degree, skilled in developing predictive models and natural language processing. Demonstrated expertise in building advanced systems like Automated Attendance System (OpenCV, Python, Django) and customer churn prediction models. Committed to continuous learning and eager to apply cutting-edge data science techniques in innovative, forward-thinking environments.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejamore&label=Profile%20views&color=0e75b6&style=flat" alt="tejamore" /> </p>
 
